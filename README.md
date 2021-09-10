@@ -4,5 +4,5 @@ Install by ...
 
 ```
 install.packages("devtools")
-devtools::install_github("username/packagename")
+devtools::install_github("scidesign/scidesignR")
 ```
