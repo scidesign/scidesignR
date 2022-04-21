@@ -15,7 +15,7 @@ covid19_trial
 \itemize{
 \item \code{patient} - Patient ID
 \item \code{trt} - Treatment indicator
-\item \code{die_hosp} - Died in hsopital (1 = yes, 0 = no)
+\item \code{die_hosp} - Died in hospital (1 = yes, 0 = no)
 \item \code{age} - Age of patient (years)
 }
 }

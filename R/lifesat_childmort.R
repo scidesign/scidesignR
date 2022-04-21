@@ -11,7 +11,7 @@
 #'
 #' `r paste0("``",colnames(lifesat_childmort)[3], "``", collapse = ", ")` - Year
 #'
-#' `r paste0("``",colnames(lifesat_childmort)[4], "``", collapse = ", ")` - Total poulation
+#' `r paste0("``",colnames(lifesat_childmort)[4], "``", collapse = ", ")` - Total population
 #'
 #' `r paste0("``",colnames(lifesat_childmort)[5], "``", collapse = ", ")` - Continent
 #'

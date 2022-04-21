@@ -7,7 +7,7 @@
 #'
 #' * `trt` - Treatment indicator
 #'
-#' * `die_hosp` - Died in hsopital (1 = yes, 0 = no)
+#' * `die_hosp` - Died in hospital (1 = yes, 0 = no)
 #'
 #' * `age` - Age of patient (years)
 #'

@@ -1,13 +1,13 @@
 Package: scidesignR
 Type: Package
-Title: Data sets from Design and Analysis of Scientific Studies using R
-Version: 0.1.0
+Title: Data sets from Design and Analysis of Experiments and Observational Studies using R
+Version: 1.0.0
 Author: Nathan Taback
 Maintainer: Nathan Taback <nathan.taback@utoronto.ca>
-Description: Data used in Taback, N. (2021). Design and Analysis of Scientific Studies using R. Chapman & Hall/CRC.
+Description: Data used in Taback, N. (2022). Design and Analysis of Experiments and Observational Studies using R. Chapman & Hall/CRC.
 License: CC BY 4.0
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 7.1.1
+RoxygenNote: 7.1.2
 Roxygen: list(markdown = TRUE)
 Depends: R (>= 3.5.0)

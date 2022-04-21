@@ -21,7 +21,7 @@ The columns are:
 
 \code{Year} - Year
 
-\code{Tot_pop} - Total poulation
+\code{Tot_pop} - Total population
 
 \code{Continent} - Continent
 

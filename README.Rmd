@@ -1,0 +1,39 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# scidesignR
+
+The goal of scidesignR is to be able to reproduce the analyses and answer questions in Taback (2022). Design and Analysis of Experiments and Observational Studies using R.
+
+## Installation
+
+You can install the development version of scidesignR from [GitHub](https://github.com/) with:
+
+``` r
+# install.packages("devtools")
+devtools::install_github("scidesign/scidesignR")
+```
+
+## Example
+
+Compute the row and column means from Bliss and Rose data in section [5.11.1](https://scidesign.github.io/design-studies-book-r/anovachapt.html#computation-lab-analysis-of-latin-square-designs)
+
+```{r example}
+library(scidesignR)
+library(tidyverse)
+BR_LatSq %>%
+  group_by(Weeks) %>%
+  summarise(Weeks_Ave = mean(value))
+```
