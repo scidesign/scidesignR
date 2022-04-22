@@ -11,7 +11,7 @@ R data frame.
 CSectdat
 }
 \description{
-\code{CSectdat} is data from \href{https://www.obgyn.utoronto.ca/hospital-statistics}{Obstetrics and Gynaecology, University of Toronto}
+\code{CSectdat} is data from \href{https://obgyn.utoronto.ca/hospital-statistics}{Obstetrics and Gynaecology, University of Toronto}
 \itemize{
 \item \code{Hospital} - \code{MG} or \code{NYG}
 \item \code{CSecthosp} - Indicator of C-section (1 = yes, 0 = no)

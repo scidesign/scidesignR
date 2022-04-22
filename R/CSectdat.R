@@ -1,7 +1,7 @@
 #' CSectdat
 #'
 #' @description
-#' `CSectdat` is data from [Obstetrics and Gynaecology, University of Toronto](https://www.obgyn.utoronto.ca/hospital-statistics)
+#' `CSectdat` is data from [Obstetrics and Gynaecology, University of Toronto](https://obgyn.utoronto.ca/hospital-statistics)
 #'
 #' * `Hospital` - `MG` or `NYG`
 #'

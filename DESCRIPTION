@@ -1,6 +1,6 @@
 Package: scidesignR
 Type: Package
-Title: Data sets from Design and Analysis of Experiments and Observational Studies using R
+Title: Data Sets from Design and Analysis of Experiments and Observational Studies using R
 Version: 1.0.0
 Author: Nathan Taback
 Maintainer: Nathan Taback <nathan.taback@utoronto.ca>
