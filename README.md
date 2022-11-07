@@ -1,4 +1,5 @@
 
+<a href="https://zenodo.org/badge/latestdoi/405227457"><img src="https://zenodo.org/badge/405227457.svg" alt="DOI"></a>
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 # scidesignR
